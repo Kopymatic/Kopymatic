@@ -1,4 +1,5 @@
-Hello, I'm Kopymatic, or Kopy for short
+Hello, I'm **Kopymatic**, or **Kopy** for short
+
 I currently program in:
 - Typescript
 - Kotlin
