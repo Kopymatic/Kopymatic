@@ -1,9 +1,15 @@
 Hello, I'm **Kopymatic**, or **Kopy** for short
 
-I currently program in:
+I've got experience in (and currently use)
 - Typescript
-- Kotlin
-- GDScript (Godot Game Engine)
-- And more!
+- Svelte
+- Tailwind
+- the other web stuff (HTML, CSS, JS)
+- Godot Game Engine
 
-I aspire to be a fullstack web developer or a game developer.
+I have prior experience in
+- Kotlin
+- Java
+- C# very breifly
+
+Trying to write good code and sometimes suceeding
